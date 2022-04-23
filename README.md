@@ -33,5 +33,13 @@ THREATS
 
 The growth may be affected due to external factors or slow improvement in technology with the dynamic world.
 
+
 Note: 
 Here i have used one switch which act as a door sensor. As the door sensor is missing in simulide so we have replaced it with a switch. 
+
+
+
+# Codiga
+https://api.codiga.io/project/33106/score/svg
+
+https://api.codiga.io/project/33106/status/svg
