@@ -11,4 +11,4 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|![ON](Simulation/ON.png.png)|![OFF](Simulation/OFF.png.png)|
