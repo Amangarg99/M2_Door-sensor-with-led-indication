@@ -1,0 +1,1 @@
+@mainpage Door sensor using ATmega328 microcontroller by Aman Garg @subpage main.c
